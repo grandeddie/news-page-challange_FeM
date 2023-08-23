@@ -11,12 +11,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 
 
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
-
 ### Screenshot
 
 ![](FireShot%20Capture%20001%20-%20NewsHomePage%20-%20.png)
